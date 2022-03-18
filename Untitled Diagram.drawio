@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T07:06:11.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LsrgE8Vk3XpG9tCX4nQZ" version="17.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-18T07:07:22.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="S-RB4aC7rtdmg1hWhR3d" version="17.1.3" type="github" pages="6">
   <diagram id="iX_JxH-t-iPKLT1xYBKd" name="balance算法架构">
-    <mxGraphModel dx="1455" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Kus9wvCq8ff2dSMB6y5--0" />
         <mxCell id="Kus9wvCq8ff2dSMB6y5--1" parent="Kus9wvCq8ff2dSMB6y5--0" />
@@ -13,13 +13,13 @@
         <mxCell id="NfhY0BIhhvha-HTHhNYo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="Kus9wvCq8ff2dSMB6y5--1" source="NfhY0BIhhvha-HTHhNYo-1" target="NfhY0BIhhvha-HTHhNYo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NfhY0BIhhvha-HTHhNYo-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;HandleDeleteChunks&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#79d9ce;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="Kus9wvCq8ff2dSMB6y5--1">
+        <mxCell id="NfhY0BIhhvha-HTHhNYo-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;HandleDeleteChunks()&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#79d9ce;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="Kus9wvCq8ff2dSMB6y5--1">
           <mxGeometry x="110" y="1450" width="327" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NfhY0BIhhvha-HTHhNYo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FFFFFF;" edge="1" parent="Kus9wvCq8ff2dSMB6y5--1" source="NfhY0BIhhvha-HTHhNYo-3" target="NfhY0BIhhvha-HTHhNYo-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NfhY0BIhhvha-HTHhNYo-3" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;HandleBalance&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#79d9ce;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;" vertex="1" parent="Kus9wvCq8ff2dSMB6y5--1">
+        <mxCell id="NfhY0BIhhvha-HTHhNYo-3" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;HandleBalance（）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#79d9ce;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;" vertex="1" parent="Kus9wvCq8ff2dSMB6y5--1">
           <mxGeometry x="110" y="1610" width="327" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NfhY0BIhhvha-HTHhNYo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FFFFFF;" edge="1" parent="Kus9wvCq8ff2dSMB6y5--1" source="NfhY0BIhhvha-HTHhNYo-5" target="NfhY0BIhhvha-HTHhNYo-0">
