@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T06:45:47.359Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="-03KTDXYqmfIGCbqgHWW" version="17.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-23T06:47:12.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="2wFbc2RNQtFRCZ6t0RPV" version="17.1.5" type="github" pages="9">
   <diagram id="iX_JxH-t-iPKLT1xYBKd" name="balance算法架构">
     <mxGraphModel dx="1977" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NRyMcmqF8Gp-J5ZiI6Ct" name="Page-9">
-    <mxGraphModel dx="1130" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="s_c5Uemlxa4JN-c4xg9p-0" />
         <mxCell id="s_c5Uemlxa4JN-c4xg9p-1" parent="s_c5Uemlxa4JN-c4xg9p-0" />
@@ -105,7 +105,7 @@
         <mxCell id="GOMcGygigXlgGt8LO1kX-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;从其他集群获取需要拷贝Trp&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#79d9ce;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="s_c5Uemlxa4JN-c4xg9p-1">
           <mxGeometry x="100" y="250" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GOMcGygigXlgGt8LO1kX-5" value="&lt;span style=&quot;font-size: 24px&quot;&gt;模拟拷贝&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#79d9ce;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="s_c5Uemlxa4JN-c4xg9p-1">
+        <mxCell id="GOMcGygigXlgGt8LO1kX-5" value="&lt;span style=&quot;font-size: 24px&quot;&gt;模拟拷贝其他集群trp到当前集群&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#79d9ce;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontColor=#FFFFFF;" vertex="1" parent="s_c5Uemlxa4JN-c4xg9p-1">
           <mxGeometry x="100" y="380" width="230" height="80" as="geometry" />
         </mxCell>
       </root>
